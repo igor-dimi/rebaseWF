@@ -1,8 +1,5 @@
 # trial4
 trying out alternative rebase scenarios
-
-# trial3
-Trying out Rebase
 ## Goal
 Understanding how rebase works under certain circumstances
 
